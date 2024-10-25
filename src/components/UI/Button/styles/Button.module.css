@@ -1,0 +1,14 @@
+.BtnUi {
+    width: 90px;
+    height: 30px;
+    background: transparent;
+    border: 2px solid teal;
+    border-radius: 8px;
+    font-size: 1;
+    transition: all 0.4s;
+}
+.BtnUi:hover {
+    background-color: teal;
+    color: #fff;
+    transition: all 0.5s;
+}
