@@ -1,0 +1,22 @@
+.selectTitle {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+.selectUi {
+    width: 140px;
+    height: 30px;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding-left: 8px;
+    padding-right: 0px;
+    color: teal;
+    border: 1px solid teal;
+    transition: all 0.5s;
+}
+.selectUi:hover {
+    border: none;
+    background-color: teal;
+    color: #fff;
+    transition: all 0.5s;
+}
